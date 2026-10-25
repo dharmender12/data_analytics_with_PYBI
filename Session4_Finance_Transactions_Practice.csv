@@ -1,0 +1,21 @@
+﻿Transaction_ID,Date,Department,Category,Description,Approval_Status,Actual_Amount,Budget_Amount,Currency,Invoice_ID
+TXN1001,2026-09-01,Operations,Travel,Hotel,Approved,12500,12000,INR,INV-7001
+TXN1002,2026-09-02,Finance,Software,Subscription,Approved,8400,9000,INR,INV-7002
+TXN1003,2026-09-03,Marketing,Advertising,Digital campaign,Pending,27500,22000,INR,INV-7003
+TXN1004,2026-09-04,IT,Hardware,Laptop accessories,Approved,18400,18000,INR,INV-7004
+TXN1005,2026-09-05,Operations,Travel,Taxi,Approved,1850,2500,INR,INV-7005
+TXN1006,2026-09-06,HR,Training,Workshop venue,Pending,15000,12000,INR,INV-7006
+TXN1007,2026-09-07,Finance,Office,Stationery,Approved,2450,3000,INR,INV-7007
+TXN1008,2026-09-08,Marketing,Advertising,Print materials,Rejected,6200,8000,INR,INV-7008
+TXN1009,2026-09-09,IT,Software,Cloud service,Approved,32000,30000,INR,INV-7009
+TXN1010,2026-09-10,Operations,Travel,Train ticket,Approved,4200,5000,INR,INV-7010
+TXN1011,2026-09-11,HR,Recruitment,Job portal,Approved,9600,10000,INR,INV-7011
+TXN1012,2026-09-12,Finance,Professional Fees,Audit support,Pending,22500,20000,INR,INV-7012
+TXN1013,2026-09-13,Marketing,Advertising,Social campaign,Approved,14800,15000,INR,INV-7013
+TXN1014,2026-09-14,IT,Hardware,Monitor,Approved,-2500,4000,INR,INV-7014
+TXN1015,2026-09-15,Operations,Travel,Meals,Approved,,1800,INR,INV-7015
+TXN1016,2026-09-16,HR,Training,Course licence,Approved,7200,7000,INR,INV-7016
+TXN1017,2026-09-17,Finance,Software,Accounting tool,Approved,11500,10000,INR,INV-7017
+TXN1018,2026-09-18,Marketing,Advertising,Agency support,Pending,18500,17000,INR,INV-7018
+TXN1019,2026-09-19,IT,Software,Security tool,Approved,,12500,INR,INV-7019
+TXN1020,2026-09-20,Operations,Travel,Fuel,Approved,3400,3000,INR,INV-7020
