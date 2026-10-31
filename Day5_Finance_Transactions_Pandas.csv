@@ -1,0 +1,62 @@
+transaction_id,transaction_date,department,expense_category,vendor,region,budget_amount,actual_amount,approval_status,payment_mode
+FIN2026001,2026-09-08,Finance,Bank Charges,Nimbus Cloud,North,6750.75,5687.65,Approved,Cheque
+FIN2026002,2026-09-17,Finance,Audit,Metro Office Mart,South,7085.81,5690.24,Paid,Corporate Card
+FIN2026003,2026-09-01,IT,Hardware,Nimbus Cloud,West,46248.6,56266.11,Rejected,UPI
+FIN2026004,2026-09-04,Operations,Logistics,Cedar Consulting,North,20071.96,23774.15,Rejected,UPI
+FIN2026005,2026-09-15,HR,Recruitment,Cedar Consulting,North,23516.46,16000.96,Rejected,UPI
+FIN2026006,2026-09-22,HR,Training,BluePeak Logistics,North,18460.2,12897.93,Pending,Bank Transfer
+FIN2026007,2026-09-12,IT,Hardware,BluePeak Logistics,East,24458.15,26781.16,Pending,UPI
+FIN2026008,2026-09-24,Finance,Bank Charges,Apex Technologies,West,47639.17,,Paid,UPI
+FIN2026009,2026-09-25,HR,Recruitment,Apex Technologies,North,20373.06,17867.13,Rejected,Cheque
+FIN2026010,2026-09-19,Marketing,Printing,Apex Technologies,West,9633.2,12419.08,Paid,Cheque
+FIN2026011,2026-09-18,Operations,Utilities,Nimbus Cloud,West,23541.61,19366.25,Paid,UPI
+FIN2026012,2026-09-16,Operations,Logistics,Northstar Services,North,74812.8,55872.61,Pending,Corporate Card
+FIN2026013,2026-09-20,IT,Cybersecurity,Metro Office Mart,East,46748.63,42977.75,Approved,Bank Transfer
+FIN2026014,2026-09-10,HR,Employee Welfare,Apex Technologies,West,57561.45,-1520.53,Approved,UPI
+FIN2026015,2026-09-04,HR,Payroll,Nimbus Cloud,South,58337.35,58651.04,Pending,UPI
+FIN2026016,2026-09-17,Operations,Logistics,Metro Office Mart,East,42756.53,51095.7,Paid,Bank Transfer
+FIN2026017,2026-09-27,Finance,Compliance,Apex Technologies,North,70036.9,88604.05,Pending,Bank Transfer
+FIN2026018,2026-09-25,Finance,Bank Charges,Apex Technologies,West,56233.53,68673.3,Pending,UPI
+FIN2026019,2026-09-07,HR,Training,Nimbus Cloud,East,66070.31,62515.5,Paid,UPI
+FIN2026020,2026-09-08,IT,Hardware,Northstar Services,East,67972.99,65664.65,Approved,Corporate Card
+FIN2026021,2026-09-21,HR,Recruitment,Apex Technologies,North,20415.22,14284.43,Approved,UPI
+FIN2026022,2026-09-16,Finance,Bank Charges,Metro Office Mart,South,40990.93,34634.63,Paid,Corporate Card
+FIN2026023,2026-09-04,IT,Cybersecurity,BluePeak Logistics,West,61524.79,,Paid,Cheque
+FIN2026024,2026-09-04,Finance,Audit,Cedar Consulting,East,52135.52,69805.06,Approved,Corporate Card
+FIN2026025,2026-09-14,Operations,Maintenance,BluePeak Logistics,West,18314.62,17655.83,Pending,Bank Transfer
+FIN2026026,2026-09-04,IT,Cloud Services,Nimbus Cloud,North,61561.56,76901.27,Approved,Corporate Card
+FIN2026027,2026-09-28,Operations,Office Supplies,Northstar Services,South,33448.98,33012.5,Paid,Bank Transfer
+FIN2026028,2026-09-15,IT,Licences,Cedar Consulting,West,23564.21,28249.94,Pending,Corporate Card
+FIN2026029,2026-09-24,Marketing,Digital Ads,Nimbus Cloud,East,20239.06,13983.94,Approved,Bank Transfer
+FIN2026030,2026-09-17,HR,Training,Northstar Services,North,38375.2,49641.05,Pending,Bank Transfer
+FIN2026031,2026-09-13,HR,Recruitment,Metro Office Mart,South,9757.26,12228.51,Approved,Bank Transfer
+FIN2026032,2026-09-11,IT,Licences,Apex Technologies,East,51016.12,53345.46,Pending,UPI
+FIN2026033,2026-09-15,IT,Licences,Northstar Services,North,14161.48,15603.83,Paid,Bank Transfer
+FIN2026034,2026-09-05,Finance,Compliance,Northstar Services,South,42634.41,42810.03,Rejected,UPI
+FIN2026035,2026-09-10,Operations,Logistics,Nimbus Cloud,East,35672.92,36752.12,Approved,Corporate Card
+FIN2026036,2026-09-18,Marketing,Events,BluePeak Logistics,East,13080.01,9482.03,Pending,UPI
+FIN2026037,2026-09-09,Operations,Logistics,Northstar Services,West,53124.8,-2016.23,Rejected,Bank Transfer
+FIN2026038,2026-09-09,Finance,Bank Charges,Nimbus Cloud,West,28348.96,21022.84,Paid,Bank Transfer
+FIN2026039,2026-09-29,Finance,Bank Charges,Metro Office Mart,North,10267.07,13020.44,Rejected,Corporate Card
+FIN2026040,2026-09-29,IT,Cloud Services,BluePeak Logistics,South,13921.19,12052.7,Pending,Bank Transfer
+FIN2026041,2026-09-14,Marketing,Events,Apex Technologies,South,59608.14,,Pending,Cheque
+FIN2026042,2026-09-26,Finance,Software,Nimbus Cloud,South,17555.25,22771.64,Rejected,Corporate Card
+FIN2026043,2026-09-16,Finance,Bank Charges,Apex Technologies,West,31777.92,21517.06,Rejected,UPI
+FIN2026044,2026-09-13,Operations,Utilities,BluePeak Logistics,North,20604.65,22912.85,Rejected,UPI
+FIN2026045,2026-09-18,HR,Payroll,Northstar Services,North,32977.49,44084.47,Rejected,Corporate Card
+FIN2026046,2026-09-04,HR,Employee Welfare,BluePeak Logistics,East,72377.4,60494.95,Paid,Bank Transfer
+FIN2026047,2026-09-02,IT,Cybersecurity,Northstar Services,South,67965.33,53220.6,Rejected,Cheque
+FIN2026048,2026-09-20,Finance,Compliance,Nimbus Cloud,North,71421.21,92457.58,Rejected,UPI
+FIN2026049,2026-09-18,IT,Hardware,Apex Technologies,West,27832.8,31675.0,Paid,Corporate Card
+FIN2026050,2026-09-27,HR,Recruitment,BluePeak Logistics,East,44837.37,41889.43,Pending,Cheque
+FIN2026051,2026-09-15,HR,Employee Welfare,Nimbus Cloud,South,47466.31,41560.29,Paid,Corporate Card
+FIN2026052,2026-09-20,Finance,Compliance,Northstar Services,South,24865.05,27717.01,Rejected,Corporate Card
+FIN2026053,2026-09-16,Operations,Logistics,Cedar Consulting,West,15314.78,10450.03,Pending,Cheque
+FIN2026054,2026-09-23,IT,Cloud Services,Northstar Services,West,32975.7,24840.59,Pending,Corporate Card
+FIN2026055,2026-09-30,HR,Recruitment,Cedar Consulting,South,37518.49,39026.14,Paid,UPI
+FIN2026056,2026-09-17,IT,Cybersecurity,Metro Office Mart,West,47885.66,55235.71,Pending,Cheque
+FIN2026057,2026-09-21,IT,Licences,Metro Office Mart,West,23143.41,19048.6,Pending,UPI
+FIN2026058,2026-09-09,IT,Licences,BluePeak Logistics,North,10423.83,8860.36,Pending,Corporate Card
+FIN2026059,2026-09-07,Operations,Logistics,Cedar Consulting,West,31812.47,24080.88,Rejected,Cheque
+FIN2026060,2026-09-13,IT,Cloud Services,Metro Office Mart,West,9358.6,11539.38,Paid,Bank Transfer
+FIN2026011,2026-09-18,Operations,Utilities,Nimbus Cloud,West,23541.61,19366.25,Paid,UPI
