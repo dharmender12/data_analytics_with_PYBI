@@ -1,0 +1,82 @@
+transaction_id,transaction_date,department,vendor,budget_amount,actual_amount,approval_status,payment_method
+FIN1001,2026-10-01,Marketing,Northstar Services,19795.0,19942.03,Rejected,UPI
+FIN1002,2026-10-19,Finance,Northstar Services,4860.0,6101.82,Approved,Bank Transfer
+FIN1003,2026-10-30,Finance,Northstar Services,42158.0,43968.56,Approved,UPI
+FIN1004,2026-10-02,Marketing,Apex Supplies,48732.0,47536.42,Approved,Bank Transfer
+FIN1005,2026-10-21,Marketing,Apex Supplies,15284.0,10518.57,Approved,UPI
+FIN1006,2026-10-12,Marketing,Apex Supplies,10265.0,11187.52,Rejected,Bank Transfer
+FIN1007,2026-10-26,IT,BrightPath Media,20850.0,16850.65,Approved,Corporate Card
+FIN1008,2026-10-06,Finance,PeopleFirst Consulting,41194.0,115343.2,Approved,Bank Transfer
+FIN1009,2026-10-23,IT,Metro Logistics,25962.0,24720.07,Pending,Bank Transfer
+FIN1010,2026-10-04,Marketing,Northstar Services,48131.0,43820.67,Approved,Corporate Card
+FIN1011,2026-10-23,Finance,Northstar Services,20023.0,13588.57,Pending,Cheque
+FIN1012,2026-10-11,IT,BrightPath Media,45090.0,36828.9,Approved,Cheque
+FIN1013,2026-10-24,IT,Northstar Services,5685.0,,Approved,Bank Transfer
+FIN1014,2026-10-27,Marketing,Apex Supplies,4769.0,5160.05,Approved,Corporate Card
+FIN1015,2026-10-17,Finance,Metro Logistics,6433.0,6984.43,Approved,Bank Transfer
+FIN1016,2026-10-31,Marketing,CloudAxis Tech,9311.0,9229.51,Approved,UPI
+FIN1017,2026-10-06,Finance,Northstar Services,41819.0,45131.53,Approved,UPI
+FIN1018,2026-10-24,HR,Apex Supplies,43188.0,43334.93,Approved,Bank Transfer
+FIN1019,2026-10-05,Operations,CloudAxis Tech,21568.0,20052.27,Approved,Cheque
+FIN1020,2026-10-20,Operations,Metro Logistics,23769.0,27801.61,Rejected,Cheque
+FIN1021,2026-10-02,Operations,CloudAxis Tech,32693.0,29939.12,Approved,Bank Transfer
+FIN1022,2026-10-06,Marketing,Apex Supplies,10396.0,8539.9,Approved,Bank Transfer
+FIN1023,2026-10-22,HR,PeopleFirst Consulting,31480.0,37089.45,Pending,UPI
+FIN1024,2026-10-11,Finance,PeopleFirst Consulting,45434.0,109041.6,Pending,Cheque
+FIN1025,2026-10-31,IT,CloudAxis Tech,29658.0,20068.15,Approved,Bank Transfer
+FIN1026,2026-10-16,Finance,BrightPath Media,22942.0,24658.78,Approved,UPI
+FIN1027,2026-10-16,IT,CloudAxis Tech,22431.0,13279.24,Approved,Cheque
+FIN1028,2026-10-01,Finance,Northstar Services,6747.0,7775.96,Approved,Corporate Card
+FIN1029,2026-10-09,HR,Northstar Services,4189.0,3317.36,Rejected,UPI
+FIN1030,2026-10-28,IT,PeopleFirst Consulting,23118.0,25456.56,Rejected,Cheque
+FIN1031,2026-10-27,Marketing,BrightPath Media,39773.0,33780.1,Approved,Cheque
+FIN1032,2026-10-06,Finance,Apex Supplies,5899.0,6016.51,Approved,UPI
+FIN1033,2026-10-16,Finance,Northstar Services,5267.0,3747.32,Rejected,Corporate Card
+FIN1034,2026-10-29,IT,PeopleFirst Consulting,35551.0,32332.03,Approved,UPI
+FIN1035,2026-10-03,Marketing,Metro Logistics,15394.0,14612.49,Approved,Cheque
+FIN1036,2026-10-20,Marketing,PeopleFirst Consulting,7556.0,8561.03,Pending,Bank Transfer
+FIN1037,2026-10-28,HR,Northstar Services,7890.0,10122.64,Approved,Bank Transfer
+FIN1038,2026-10-27,Marketing,Northstar Services,45606.0,48548.69,Rejected,UPI
+FIN1039,2026-10-04,Marketing,PeopleFirst Consulting,34740.0,35211.67,Rejected,Cheque
+FIN1040,2026-10-19,Marketing,Apex Supplies,18502.0,,Pending,Bank Transfer
+FIN1041,2026-10-26,Operations,CloudAxis Tech,25777.0,18163.83,Approved,Cheque
+FIN1042,2026-10-03,HR,Northstar Services,14627.0,14543.05,Pending,UPI
+FIN1043,2026-10-31,Finance,PeopleFirst Consulting,12792.0,12592.9,Pending,Bank Transfer
+FIN1044,2026-10-19,IT,PeopleFirst Consulting,47323.0,50609.87,Approved,Cheque
+FIN1045,2026-10-20,Finance,BrightPath Media,47021.0,51106.97,Approved,Bank Transfer
+FIN1046,2026-10-07,HR,CloudAxis Tech,12433.0,12743.4,Pending,UPI
+FIN1047,2026-10-20,IT,Metro Logistics,47001.0,32710.15,Pending,Cheque
+FIN1048,2026-10-09,HR,Apex Supplies,15016.0,16828.03,Approved,Bank Transfer
+FIN1049,2026-10-01,Marketing,Metro Logistics,27897.0,26252.58,Pending,UPI
+FIN1050,2026-10-08,IT,CloudAxis Tech,6612.0,5210.5,Pending,Bank Transfer
+FIN1051,2026-10-07,Marketing,CloudAxis Tech,27483.0,24331.86,Approved,Bank Transfer
+FIN1052,2026-10-18,Finance,CloudAxis Tech,21159.0,65592.9,Approved,Corporate Card
+FIN1053,2026-10-08,Finance,Metro Logistics,48974.0,43981.86,Approved,Corporate Card
+FIN1054,2026-10-01,IT,CloudAxis Tech,44994.0,49274.79,Approved,UPI
+FIN1055,2026-10-11,IT,PeopleFirst Consulting,18541.0,16705.95,Approved,Corporate Card
+FIN1056,2026-10-28,HR,Metro Logistics,39920.0,32132.1,Approved,UPI
+FIN1057,2026-10-25,HR,CloudAxis Tech,30531.0,27890.88,Approved,Corporate Card
+FIN1058,2026-10-25,Marketing,PeopleFirst Consulting,5585.0,5825.0,Pending,Bank Transfer
+FIN1059,2026-10-18,IT,BrightPath Media,7943.0,5696.0,Approved,UPI
+FIN1060,2026-10-23,Finance,CloudAxis Tech,27939.0,21696.5,Pending,UPI
+FIN1061,2026-10-31,HR,Metro Logistics,23457.0,23055.0,Approved,Bank Transfer
+FIN1062,2026-10-30,HR,Northstar Services,5021.0,3690.94,Approved,UPI
+FIN1063,2026-10-10,Finance,CloudAxis Tech,15653.0,20507.32,Approved,UPI
+FIN1064,2026-10-03,HR,Northstar Services,47573.0,44357.04,Pending,Corporate Card
+FIN1065,2026-10-07,Marketing,PeopleFirst Consulting,17417.0,13876.86,Approved,UPI
+FIN1066,2026-10-28,IT,BrightPath Media,44757.0,36381.9,Rejected,Cheque
+FIN1067,2026-10-16,Finance,Apex Supplies,13692.0,11953.64,Approved,Bank Transfer
+FIN1068,2026-10-26,IT,BrightPath Media,49758.0,42664.05,Approved,Corporate Card
+FIN1069,2026-10-16,HR,CloudAxis Tech,10873.0,1957.14,Rejected,Corporate Card
+FIN1070,2026-10-25,HR,Northstar Services,9675.0,11488.8,Approved,Cheque
+FIN1071,2026-10-20,Finance,Northstar Services,4161.0,3982.96,Approved,Bank Transfer
+FIN1072,2026-10-28,Marketing,Metro Logistics,41065.0,39220.04,Approved,Bank Transfer
+FIN1073,2026-10-17,Operations,Northstar Services,30557.0,33833.24,Approved,Corporate Card
+FIN1074,2026-10-02,Finance,Metro Logistics,37763.0,29083.97,Pending,UPI
+FIN1075,2026-10-01,Operations,PeopleFirst Consulting,36606.0,30145.08,Approved,Corporate Card
+FIN1076,2026-10-16,Operations,Apex Supplies,15534.0,16191.63,Approved,Bank Transfer
+FIN1077,2026-10-30,Marketing,CloudAxis Tech,33127.0,31418.04,Approved,Cheque
+FIN1078,2026-10-12,Operations,Metro Logistics,44397.0,45377.39,Pending,Corporate Card
+FIN1079,2026-10-05,Operations,Apex Supplies,29851.0,28226.64,Approved,Bank Transfer
+FIN1080,2026-10-05,Marketing,Northstar Services,5016.0,4597.42,Approved,Corporate Card
+FIN1006,2026-10-12,Marketing,Apex Supplies,10265.0,11187.52,Rejected,Bank Transfer
